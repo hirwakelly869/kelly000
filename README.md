@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hirwakelly869
-- 👀 I’m interested in playing football
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering at alu
 - 💞️ I’m looking to collaborate on all programming languages
 - 📫 How to reach me via github and linkedin
