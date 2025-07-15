@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all programming languages
 - 📫 How to reach me via github and linkedin
 - 😄 Pronouns: he
-- ⚡ Fun fact: good dancer
+- ⚡ Fun fact: a dancer
 
 <!---
 hirwakelly869/hirwakelly869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
